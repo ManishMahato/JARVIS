@@ -1,1 +1,3 @@
-Talking AI bot, built on VS Code in Python, using modules like numpy, pyttsx3, speech recognition, web browser, os.
+- Developed a cutting-edge Talking AI bot integrating advanced modules such as numpy, pyttsx3, speech recognition, web browser, and os.
+- Built the AI bot using Python programming language on the VS Code platform.
+- Demonstrated passion for AI technology by creating an interactive AI bot capable of speech recognition, web browsing, and performing system operations.
